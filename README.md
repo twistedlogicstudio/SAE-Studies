@@ -1,4 +1,4 @@
-# SAE Studies
+# 🧠 SAE Studies
 Cody's SAE research &amp; study notes
 
 ![SAE NOM](https://github.com/twistedlogicaudio/SAE-Studies/assets/148475331/1e6e884d-c8ee-41a3-bc49-5bb63b70ff17)
@@ -7,9 +7,9 @@ Cody's SAE research &amp; study notes
 This is me still testing it out / a work in progress 
 
 # [SAE Studies Wiki](https://github.com/twistedlogicaudio/SAE-Studies/wiki)
-[All notes, research & project work is archived here](https://github.com/twistedlogicaudio/SAE-Studies/wiki)
-[Quick Link to current module / unit](
-[ ]()
+- [All notes, research & project work is archived here](https://github.com/twistedlogicaudio/SAE-Studies/wiki)
+- [Quick Link to current module / unit](https://github.com/twistedlogicaudio/SAE-Studies/wiki/AUD212-•-Audio-Studio-2)
+- [Quick Link to current project page](https://github.com/twistedlogicaudio/SAE-Studies/wiki/AUD212.2-•-Brief)
 
 ## Why Github?
 Fistly I take all of my notes in either Obsidian or Logseq, or more importantly in Markdown.
