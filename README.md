@@ -6,6 +6,9 @@ Cody's SAE research &amp; study notes
 ## Disclaimer:
 This is me still testing it out / a work in progress 
 
+# SAE Studies Wiki 
+[All notes, research & project work is archived here](https://github.com/twistedlogicaudio/SAE-Studies/wiki)
+
 ## Why Github?
 Fistly I take all of my notes in either Obsidian or Logseq, or more importantly in Markdown.
 This is done for:
