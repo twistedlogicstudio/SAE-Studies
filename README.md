@@ -40,11 +40,11 @@ With the secondary goal of this being an easy way to collate all of my notes / w
 ***Please Read the LICENSE (to be written lol) in regards to using any of my creative work outside of SAE or student / teaching purposes***
 
 ## Goals & Tasks for GIIIIT (this project... thing)
-- [ ] Collect all *relevant* notes and have it backed up to this repo
+- [x] Collect all *relevant* notes and have it backed up to this repo
 - [ ] Setup an auto sync / backup system for Logseq only backing up SAE relevant content
-- [ ] Setup an auto sync / backup system for Obsidian only backing up SAE relevant content
+- [x] Setup an auto sync / backup system for Obsidian only backing up SAE relevant content
 - [ ] Go back through and double check wether all 4 points above have been met
 - [ ] Check wether other platforms like Gitlab might be better than Github
 - [ ] Collect all thoughts & notes on this 'project' into it's own document
-- [ ] Write EULA for any creative work on this repo
+- [x] Write EULA for any creative work on this repo
 - [ ] Profit 🥳
