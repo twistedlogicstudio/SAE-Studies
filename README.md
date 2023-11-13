@@ -12,7 +12,7 @@ This is me still testing it out / a work in progress
 - [Quick Link to current project page](https://github.com/twistedlogicaudio/SAE-Studies/wiki/AUD212.2-•-Brief)
 
 ## Why Github?
-Fistly I take all of my notes in either Obsidian or Logseq, or more importantly in Markdown.
+Firstly I take all of my notes in either Obsidian or Logseq, or more importantly in Markdown.
 This is done for:
 1. A localised format for my notes.
   - Where I'm not (completely) subject to the cloud  
@@ -26,11 +26,11 @@ I, in the end want to be the one in control of my work, and the way it's backed 
 
 ![280329438-01f7b72e-91f1-48a7-9770-46d32380644a](https://github.com/twistedlogicaudio/SAE-Studies/assets/148475331/fe1f3578-24e0-4629-8c40-cf8b5f011e7c)
 
-[Google BIKE, YES! Curtosy of:]()
+[Google BIKE, YES! Courtesy of:]()
 
 ### So with that I have a couple of points in need of a solution:
 1. An easy and simple way to backup my plain text notes online
-2. Have that online backup accessable anywhere
+2. Have that online backup accessible anywhere
 3. Have the notes easily readable online - including embedded images / videos / etc.
 4. Have an easy way of sharing notes to others / collaborators
 
